@@ -32,4 +32,8 @@ Closing Urban Tree cover Inequity (CUTI) Script Repository
 * Running scripts
   * The two GEE js scripts are run first to generate the urban and rural reference polygons, calculate land surface temperature from Landsat satellite observations, and finally calculate the surface urban heat island intensity. 
   * Each consequent python script is then intended to run sequentially to reproduce the methods used in Chakraborty et al 2021 (forthcoming)
+  
+## Final data
+The city and CBG-level suitability summaries (Suitability_Summaries_City_v10_limit.csv and Suitability_Table_CBG_v10_limit.csv), as well as the intermediate variables calculated in the study (CBG_Table_v10.csv), are in the Data tables directory. 
+  
 
