@@ -1,7 +1,7 @@
 # CUTI-Scripts
 Closing Urban Tree cover Inequity (CUTI) Script Repository
 * Scripts used to generate suitability scores and tree canopy cover estimates for CUTI study.
-* Contains all methods outlined in Chakraborty, T., T. Biswas, L. S. Campbell, B. Franklin, S.S. Parker, and M. Tukman (in review). Feasibility of Urban Afforestation as an Equitable Nature-Based Solution to Climate Change. Submitted to Nature Climate Change.
+* Contains all methods outlined in Chakraborty, T., T. Biswas, L.S. Campbell, B. Franklin, S. Parker, and M. Tukman, 2022. Feasibility of Afforestation as an Equitable Nature-Based Solution in Urban Areas. Sustainable Cities and Society, 81. https://doi.org/10.1016/j.scs.2022.103826
 
 ## Primary POCs
 * Primary technical contacts
